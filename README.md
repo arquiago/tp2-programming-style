@@ -9,4 +9,6 @@ Maneiras alternativas de obter o compilador estão descritas aqui: https://githu
 Para compilar um programa em Idris 2, o comando é, em geral, `
 	```idris2 nomedoarquivo.idr -o nomedooutput```
 #### Vídeo-Aula
-Link: 
+Link: https://youtu.be/qhzZVkNAJso?si=FGHYoGn-9te0CU2u
+#### Repositório
+https://github.com/arquiago/tp2-programming-style
